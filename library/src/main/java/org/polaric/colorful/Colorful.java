@@ -78,6 +78,7 @@ public class Colorful {
         PINK(R.color.md_pink_500, R.color.md_pink_700),
         PURPLE(R.color.md_purple_500, R.color.md_purple_700),
         DEEP_PURPLE(R.color.md_deep_purple_500, R.color.md_deep_purple_700),
+        DEEP_BLUE(R.color.md_light_blue_900, R.color.md_light_blue_1000),
         INDIGO(R.color.md_indigo_500, R.color.md_indigo_700),
         BLUE(R.color.md_blue_500, R.color.md_blue_700),
         LIGHT_BLUE(R.color.md_light_blue_500, R.color.md_light_blue_700),
